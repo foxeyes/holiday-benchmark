@@ -1,7 +1,7 @@
 # Holiday.js benchmark
 #### Conditions:
 * 1000 components with a same simple structure rendered inside main component
-* Data provided by attributes
+* Data provided by component attributes
 * Components state control is used
 
 Discover the benchmark source code for more details.
