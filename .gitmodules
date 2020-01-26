@@ -1,0 +1,4 @@
+[submodule "hd"]
+	path = hd
+	url = https://github.com/foxeyes/holiday
+	branch = master
